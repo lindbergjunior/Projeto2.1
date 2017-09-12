@@ -1,18 +1,11 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-image: url("bg_inde.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
-}
-.logo{
-    display: inline;
 }
 .menu ul{
     margin: 0px;
     padding: 0px;
     list-style:none;
-    text-align: right;
 }
 .menu ul li { display: inline; }
 
@@ -23,11 +16,7 @@ body{
     /* visual do link */
     color: #E24301;
     text-decoration: none;
-    font: 22px Palanquin;
-    margin-top: 10px;
-    margin-left: 14px;
-    margin-right: 14px;
-    text-align: right;
+
 }
 
 .menu ul li a:hover {
