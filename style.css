@@ -1,12 +1,15 @@
-body{
+*{
     padding: 0px;
     margin: 0px;
+}
+body{
     background-image: url("bg_inde.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
 .logo{
     display: inline;
+    float: left;
 }
 .menu ul{
     margin: 0px;
@@ -14,7 +17,10 @@ body{
     list-style:none;
     text-align: right;
 }
-.menu ul li { display: inline; }
+.menu ul li { display: inline; 
+    
+}
+    
 
 .menu ul li a {
     padding: 2px 10px;
@@ -24,7 +30,6 @@ body{
     color: #E24301;
     text-decoration: none;
     font: 22px Palanquin;
-    margin-top: 10px;
     margin-left: 14px;
     margin-right: 14px;
     text-align: right;
