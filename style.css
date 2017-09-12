@@ -1,4 +1,8 @@
-nav > ul > li > a{
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.menu ul{
     color: orange;
     float: left;
 }
