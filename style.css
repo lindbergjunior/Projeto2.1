@@ -15,3 +15,19 @@
     margin: auto;
     padding: 15px;
 }
+@font-face {
+    font-family: Palanquin;
+    src: url('palanquin-medium.ttf');
+    src: url('palanquin-bold.ttf');
+    src: url('palanquin-extralight-light.ttf');
+    src: url('palanquin-light.ttf');
+    src: url('palanquin-regular.ttf');
+    src: url('palanquin-semibold.ttf');
+    src: url('palanquin-thin.ttf');
+    font-family: kitten;
+    src: url('KittenBoldTrial.ttf');
+    src: url('KittenFatTrial.ttf');
+    src: url('KittenBoldTrial.ttf');
+    src: url('KittenBoldTrial.ttf');
+    src: url('KittenSlantTrial.ttf');
+}
