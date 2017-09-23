@@ -2,20 +2,6 @@
     padding: 0px;
     margin: 0px;
 }
-
-#projeto h1{
-    font-family: kitten;
-    margin: auto;
-    padding: 15px;
-}
-.texto-projeto{
-    text-align: justify;
-    font-family: 'palanquin-regular';
-    float: left;
-    max-width: 50%;
-    margin: auto;
-    padding: 15px;
-}
 @font-face {
     font-family: Palanquin;
     src: url('palanquin-medium.ttf');
