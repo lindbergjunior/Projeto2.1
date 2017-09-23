@@ -35,6 +35,11 @@ nav{
     text-align: right;
 }
 
+#ensaios {
+    text-align: right;
+    margin: 10px;
+    color: magenta;
+}
 .menu ul li a:hover {
     color:whitesmoke;
 }
